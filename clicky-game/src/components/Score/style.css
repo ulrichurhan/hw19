@@ -1,0 +1,8 @@
+.score {
+  width: 100%;
+  text-align: center;
+  font-size: 2rem;
+  /* text-decoration: underline; */
+  color: rgb(88, 42, 174);
+  margin-bottom: 50px;
+}

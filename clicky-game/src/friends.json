@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "name": "Bart",
+    "image": "https://upload.wikimedia.org/wikipedia/en/a/aa/Bart_Simpson_200px.png",
+    "occupation": "Fry Cook",
+    "location": "A Pineapple Under the Sea"
+  },
+  {
+    "id": 2,
+    "name": "Marge",
+    "image": "https://vignette.wikia.nocookie.net/simpsons/images/0/0b/Marge_Simpson.png/revision/latest?cb=20180626055729",
+    "occupation": "Restaurant Owner",
+    "location": "A Giant Anchor"
+  },
+  {
+    "id": 3,
+    "name": "Lisa",
+    "image": "https://static.simpsonswiki.com/images/e/ec/Lisa_Simpson.png",
+    "occupation": "Cashier",
+    "location": "An Easter Island Head"
+  },
+  {
+    "id": 4,
+    "name": "Burns",
+    "image": "https://upload.wikimedia.org/wikipedia/en/5/56/Mr_Burns.png",
+    "occupation": "Boy Genius",
+    "location": "A Secret Laboratory"
+  },
+  {
+    "id": 5,
+    "name": "Krusty",
+    "image": "https://officialpsds.com/imageview/ry/6q/ry6qpx_large.png?1521316472",
+    "occupation": "A Cowardly Dog",
+    "location": "Nowhere, Kansas"
+  },
+  {
+    "id": 6,
+    "name": "Nelson",
+    "image": "https://static.simpsonswiki.com/images/c/c5/Nelson_Muntz.png",
+    "occupation": "Student",
+    "location": "Bluffington"
+  },
+  {
+    "id": 7,
+    "name": "Waylon",
+    "image": "https://static.simpsonswiki.com/images/5/5d/Waylon_Smithers%2C_Jr..png",
+    "occupation": "Looney Toon",
+    "location": "A Rabbit Burrow"
+  },
+  {
+    "id": 8,
+    "name": "Clancy",
+    "image": "https://vignette.wikia.nocookie.net/simpsons/images/0/0e/245px-Chief_Wiggum.png/revision/latest?cb=20140830013250",
+    "occupation": "Ladies Man",
+    "location": "Aron City"
+  },
+  {
+    "id": 9,
+    "name": "Troy",
+    "image": "https://vignette.wikia.nocookie.net/simpsons/images/f/fc/T-McClure.png/revision/latest?cb=20180908235236",
+    "occupation": "Adventurer",
+    "location": "California"
+  },
+  {
+    "id": 10,
+    "name": "Grampa",
+    "image": "https://assets.fxnetworks.com/cms/prod/shows/the-simpsons/photos/simpsons-character/Grampa/swsb_character_fact_grampa_550x960.png",
+    "occupation": "Cashier",
+    "location": "O-Town, California"
+  },
+  {
+    "id": 11,
+    "name": "Disco",
+    "image": "https://assets.fxnetworks.com/cms/prod/shows/the-simpsons/photos/swsb_character_fact_disco_550x960.png",
+    "occupation": "Superhero",
+    "location": "Earth"
+  },
+  {
+    "id": 12,
+    "name": "Scientist",
+    "image": "https://ya-webdesign.com/images/simpsons-drawing-nelson-11.png",
+    "occupation": "Ahhhh! A Real Monster!",
+    "location": "Under a City Dump"
+  }
+]
